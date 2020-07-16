@@ -3,7 +3,7 @@ program Project1;
 uses
   Vcl.Forms,
   unit1 in 'unit1.pas' {Form1},
-  caparray in '..\caparray.pas';
+  CapArray in '..\CapArray.pas';
 
 {$R *.res}
 
